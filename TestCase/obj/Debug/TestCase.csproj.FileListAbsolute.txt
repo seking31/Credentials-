@@ -1,0 +1,13 @@
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\TestCase.exe.config
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\TestCase.exe
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\TestCase.pdb
+C:\Users\kingsa\source\repos\TestCase\TestCase\obj\Debug\TestCase.csprojResolveAssemblyReference.cache
+C:\Users\kingsa\source\repos\TestCase\TestCase\obj\Debug\TestCase.csproj.CoreCompileInputs.cache
+C:\Users\kingsa\source\repos\TestCase\TestCase\obj\Debug\TestCase.exe
+C:\Users\kingsa\source\repos\TestCase\TestCase\obj\Debug\TestCase.pdb
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.Core.dll
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.S3.dll
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.Core.pdb
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.Core.xml
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.S3.pdb
+C:\Users\kingsa\source\repos\TestCase\TestCase\bin\Debug\AWSSDK.S3.xml
